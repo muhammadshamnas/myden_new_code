@@ -14,7 +14,7 @@ body {
 }
 
 a {
-  color: #cc1616;
+  color: #ec1d27;
   text-decoration: none;
 }
 
@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #cc1616;
+  background: #ec1d27;
   width: 40px;
   height: 40px;
   transition: all 0.4s;
@@ -75,7 +75,7 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #cc1616;
+  border: 6px solid #ec1d27;
   border-top-color: #efefef;
   border-radius: 50%;
   width: 60px;
@@ -128,7 +128,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 #topbar .contact-info i {
-  color: #cc1616;
+  color: #ec1d27;
   line-height: 0;
   margin-right: 5px;
 }
@@ -156,7 +156,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 70px;
 }
 #header.fixed-top {
-  background: #cc1616;
+  background: #ec1d27;
 }
 #header .logo {
   font-size: 30px;
@@ -282,7 +282,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.5s;
 }
 .mobile-nav-toggle.bi-x {
-  color: #cc1616;
+  color: #ec1d27;
 }
 
 @media (max-width: 991px) {
@@ -328,7 +328,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #191919;
 }
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
-  color: #cc1616;
+  color: #ec1d27;
   background: none;
 }
 .navbar-mobile .getstarted, .navbar-mobile .getstarted:focus {
@@ -355,7 +355,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 12px;
 }
 .navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
-  color: #cc1616;
+  color: #ec1d27;
 }
 .navbar-mobile .dropdown > .dropdown-active {
   display: block;
@@ -406,8 +406,8 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 #hero .btn-get-started:hover {
-  background: #cc1616;
-  border-color: #cc1616;
+  background: #ec1d27;
+  border-color: #ec1d27;
 }
 @media (min-width: 1024px) {
   #hero {
@@ -499,7 +499,7 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #cc1616;
+  color: #ec1d27;
 }
 .about .content p:last-child {
   margin-bottom: 0;
@@ -536,7 +536,7 @@ section {
   padding: 0;
 }
 .why-us .box:hover {
-  background: #cc1616;
+  background: #ec1d27;
   padding: 30px 30px 70px 30px;
   box-shadow: 10px 15px 30px rgba(0, 0, 0, 0.18);
 }
@@ -582,7 +582,7 @@ section {
   margin: 0 auto;
   width: 64px;
   height: 64px;
-  background: #cc1616;
+  background: #ec1d27;
   transition: all 0.3s ease-out 0s;
   display: flex;
   align-items: center;
@@ -619,15 +619,15 @@ section {
   margin-bottom: 0;
 }
 .services .icon-box:hover {
-  background: #cc1616;
-  border-color: #cc1616;
+  background: #ec1d27;
+  border-color: #ec1d27;
   padding: 70px 20px 90px 20px;
 }
 .services .icon-box:hover .icon {
   background: #fff;
 }
 .services .icon-box:hover .icon i {
-  color: #cc1616;
+  color: #ec1d27;
 }
 .services .icon-box:hover .icon::before {
   background: #e82d2d;
@@ -666,8 +666,8 @@ section {
   color: #fff;
 }
 .cta .cta-btn:hover {
-  background: #cc1616;
-  border: 2px solid #cc1616;
+  background: #ec1d27;
+  border: 2px solid #ec1d27;
 }
 
 /*--------------------------------------------------------------
@@ -732,7 +732,7 @@ section {
   color: #333333;
 }
 .portfolio .portfolio-item .portfolio-info .preview-link:hover, .portfolio .portfolio-item .portfolio-info .details-link:hover {
-  color: #cc1616;
+  color: #ec1d27;
 }
 .portfolio .portfolio-item .portfolio-info .details-link {
   right: 10px;
@@ -779,10 +779,10 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #cc1616;
+  border: 1px solid #ec1d27;
 }
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #cc1616;
+  background-color: #ec1d27;
 }
 .portfolio-details .portfolio-info {
   padding: 30px;
@@ -836,7 +836,7 @@ section {
 }
 .pricing .box h4 {
   font-size: 42px;
-  color: #cc1616;
+  color: #ec1d27;
   font-weight: 500;
   font-family: "Open Sans", sans-serif;
   margin-bottom: 20px;
@@ -863,7 +863,7 @@ section {
   padding-bottom: 16px;
 }
 .pricing .box ul i {
-  color: #cc1616;
+  color: #ec1d27;
   font-size: 18px;
   padding-right: 4px;
 }
@@ -876,7 +876,7 @@ section {
   text-align: center;
 }
 .pricing .box .btn-buy {
-  background: #cc1616;
+  background: #ec1d27;
   display: inline-block;
   padding: 10px 40px;
   color: #fff;
@@ -891,7 +891,7 @@ section {
   background: #e82d2d;
 }
 .pricing .featured {
-  background: #cc1616;
+  background: #ec1d27;
   box-shadow: none;
   color: #fff;
 }
@@ -910,7 +910,7 @@ section {
 }
 .pricing .featured .btn-buy:hover {
   background: #fff;
-  color: #cc1616;
+  color: #ec1d27;
 }
 
 /*--------------------------------------------------------------
@@ -952,7 +952,7 @@ section {
   transition: 0.3s;
 }
 .team .member .social a:hover {
-  color: #cc1616;
+  color: #ec1d27;
 }
 .team .member .social i {
   font-size: 18px;
@@ -970,7 +970,7 @@ section {
 }
 .contact .info-box i {
   font-size: 32px;
-  color: #cc1616;
+  color: #ec1d27;
   border-radius: 50%;
   padding: 8px;
   border: 2px dotted #f5a0a0;
@@ -1034,7 +1034,7 @@ section {
   font-size: 14px;
 }
 .contact .php-email-form input::focus, .contact .php-email-form textarea::focus {
-  background-color: #cc1616;
+  background-color: #ec1d27;
 }
 .contact .php-email-form input {
   padding: 10px 15px;
@@ -1043,7 +1043,7 @@ section {
   padding: 12px 15px;
 }
 .contact .php-email-form button[type=submit] {
-  background: #cc1616;
+  background: #ec1d27;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1114,7 +1114,7 @@ section {
   margin-bottom: 15px;
   background: #191919;
   color: #fff;
-  border-top: 4px solid #cc1616;
+  border-top: 4px solid #ec1d27;
   text-align: center;
   padding: 30px 20px;
 }
@@ -1146,7 +1146,7 @@ section {
   transition: 0.3s;
 }
 #footer .footer-top .social-links a:hover {
-  background: #cc1616;
+  background: #ec1d27;
   color: #fff;
   text-decoration: none;
 }
@@ -1209,7 +1209,7 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #cc1616;
+  background: #ec1d27;
   color: #fff;
   transition: 0.3s;
   border-radius: 4;
